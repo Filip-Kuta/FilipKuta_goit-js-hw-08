@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/Filip-Kuta/FilipKuta_goit-js-hw-08/blob/master/src/index.html",
+  "homepage": "https://goitacademy.github.io/FilipKuta_goit-js-hw-08",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /FilipKuta_goit-js-hw-08/"
